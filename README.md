@@ -9,7 +9,8 @@ Udemy Python 25 Days Challenge — a daily log of what I learned each day.
 **What I learned:**
 -variables
 -comments
--constant
+-constant(always make the variable name uppercase)
+-f strings
 ---
 
 ## Day 2
