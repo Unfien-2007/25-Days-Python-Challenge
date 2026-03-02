@@ -3,13 +3,6 @@ monthly_salary: float = float(input("Enter Monthly Salary: "))
 Yearly_salary: float = monthly_salary * 12
 _13month_salary: float = Yearly_salary / 12
 
-#
-
-
-
-
-
-#
 print("=" * 60)
 print("Monthly Salary Calculator")
 print("=" * 60)
