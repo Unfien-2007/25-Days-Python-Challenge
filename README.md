@@ -16,7 +16,7 @@ Udemy Python 25 Days Challenge — a daily log of what I learned each day.
 ## Day 2
 **Topic:**
 **What I learned:**
-
+-Type hints
 ---
 
 ## Day 3
