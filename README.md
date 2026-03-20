@@ -28,9 +28,7 @@ Udemy Python 25 Days Challenge — a daily log of what I learned each day.
 ## Day 4
 **Topic:**
 **What I learned:**
--Data types 
-fe
-
+-Data types
 ---
 
 ## Day 5
