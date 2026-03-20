@@ -22,12 +22,14 @@ Udemy Python 25 Days Challenge — a daily log of what I learned each day.
 ## Day 3
 **Topic:**
 **What I learned:**
-
+-list [pop,insert]
 ---
 
 ## Day 4
 **Topic:**
 **What I learned:**
+-Data types 
+fewhwhfjvv
 
 ---
 
