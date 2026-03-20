@@ -29,7 +29,7 @@ Udemy Python 25 Days Challenge — a daily log of what I learned each day.
 **Topic:**
 **What I learned:**
 -Data types 
-fewhwhfjvv
+fe
 
 ---
 
